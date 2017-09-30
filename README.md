@@ -1,2 +1,2 @@
 # Blackjack
-A version of Blackjack I developed for Python 2 through Jose Portilla's "Complete Python Bootcamp" Udemy course. 
+A version of Blackjack I developed for Python 2 for Jose Portilla's "Complete Python Bootcamp" Udemy course. 
